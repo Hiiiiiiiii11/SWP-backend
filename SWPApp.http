@@ -1,0 +1,6 @@
+@SWPApp_HostAddress = http://localhost:5020
+
+GET {{SWPApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
